@@ -1,0 +1,2 @@
+# Digital-Pass-band-Modulation-and-Demodulation-using-MATLAB-Simulink-FSK-PSK-
+The objective of this experiment is to study the digital modulation techniques such as FSK and PSK pass band modulation and demodulation using MATLAB Simulink. The transmitted binary sequence, the modulated and the demodulated signals will be observed in this experiment. An AWGN channel will be taken as the transmission medium.
